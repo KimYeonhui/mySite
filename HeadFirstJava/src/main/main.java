@@ -6,7 +6,7 @@ public class main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("³ª´Â ²Ä¼ö´Ù ±ò´ë±â ±ò´ë±â"); 
+		System.out.println("³ª´Â ²Ä¼ö´Ù "); 
 
 	}
 
